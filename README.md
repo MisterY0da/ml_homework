@@ -5,6 +5,7 @@
 - age(возраст)
 - hypertension(наличие гипертонии): 1 - есть, 0 - отсутствует
 - heartdisease(cердечные заболевания): 1 - есть, 0 - отсутствует
+- ever_married(состоял в браке): "No", "Yes"
 - worktype(тип работы): Private, Self-employed, Neverworked, Govtjov, children
 - Residencetype(среда проживания): Rural, Urban
 - avgglucoselevel(средний уровень глюкозы в крови)
